@@ -1,0 +1,9 @@
+[submodule "student-service"]
+	path = student-service
+	url = https://github.com/iamoshanshanuka/learnhub-student-service.git
+[submodule "course-service"]
+	path = course-service
+	url = https://github.com/iamoshanshanuka/learnhub-course-service.git
+[submodule "enrollment-service"]
+	path = enrollment-service
+	url = https://github.com/iamoshanshanuka/learnhub-enrollment-service.git
